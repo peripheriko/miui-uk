@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_capture_video">Video</string>
-  <string name="action_clear_call_list">Apagar Registo Chamadas</string>
+  <string name="action_clear_call_list">Apagar Registo de Chamadas</string>
   <string name="action_clear_memory">Apagar Memória</string>
-  <string name="action_clear_sms_inbox">Apagar Menssagens</string>
+  <string name="action_clear_sms_inbox">Apagar Mensagens</string>
   <string name="action_close">Sair</string>
   <string name="action_home">Retroceder</string>
   <string name="action_lock_screen">Bloquear Ecram</string>
-  <string name="action_open_camera">Camera</string>
+  <string name="action_open_camera">Câmara</string>
   <string name="action_open_camera2">Galeria</string>
-  <string name="action_open_camera360_capture">Efeitos Camera Camera360</string>
-  <string name="action_open_camera360_edit">Editar Foto Camera360</string>
+  <string name="action_open_camera360_capture">Efeitos Câmara da Camera360</string>
+  <string name="action_open_camera360_edit">Editar Foto da Camera360</string>
   <string name="action_open_flashlight">Lanterna</string>
   <string name="action_open_mi_route">Listar Dispositivos</string>
   <string name="action_open_or_close_motion">Rotação Ecram</string>
-  <string name="action_open_other_app">App</string>
+  <string name="action_open_other_app">Aplicação</string>
   <string name="action_open_sound_recorder">Gravador</string>
   <string name="action_open_wechat">WeChat</string>
   <string name="action_phone">Telefonema</string>
@@ -32,8 +32,8 @@
   <string name="add_to_contacts">Adicionar aos contactos</string>
   <string name="address">Endereço:</string>
   <string name="app_name">MiKey</string>
-  <string name="app_not_installed">App não instalada</string>
-  <string name="back_camera">Câmara Trazeira</string>
+  <string name="app_not_installed">Aplicação não instalada</string>
+  <string name="back_camera">Câmara Traseira</string>
   <string name="birthday">Aniversário:</string>
   <string name="call_to">Chamada</string>
   <string name="cancel">Cancelar</string>
@@ -90,7 +90,7 @@
   <string name="faq_title">MiKey FAQ</string>
   <string name="faq_voice_text">Por favor, re-conecta a tua MiKey e tenta outra vez.</string>
   <string name="faq_voice_title">Sem som durante um telefonema?</string>
-  <string name="faq_vsm_text">Certifica-te de desconectar a tua MiKey antes de remover a tampa trazeira!</string>
+  <string name="faq_vsm_text">Certifica-te de desconectar a tua MiKey antes de remover a tampa traseira!</string>
   <string name="faq_vsm_title">Aviso!</string>
   <string name="file_delimiter">/</string>
   <string name="flash_lable">Flash</string>
@@ -157,7 +157,7 @@ Desde o topo do ecram desliza com o dedo para baixo para usar."</string>
   <string name="short_click_8">8x</string>
   <string name="short_click_9">9x</string>
   <string name="showSlip">Mostrar em popup</string>
-  <string name="silent_mode_tip_main">Modo silêncioso activado</string>
+  <string name="silent_mode_tip_main">Modo silencioso activado</string>
   <string name="silent_mode_tip_sub"/>
   <string name="sms_sent_done">SMS enviado</string>
   <string name="sms_template">Menssagem de texto</string>
